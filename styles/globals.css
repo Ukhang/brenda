@@ -1,26 +1,27 @@
-html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        @apply bg-[#F3FFFC];
+    }
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
-}
+@layer components {
+    .header-bg {
+        background:  radial-gradient(58.85% 58.85% at 50% 15.63%, #CFFAFE 0%, rgba(254, 242, 242, 0.995677) 43.23%, rgba(243, 255, 252, 0.99) 100%); 
+    }
 
-* {
-  box-sizing: border-box;
-}
+    .populer-search {
+        @apply flex items-center py-1 px-4 bg-[#E4FDF7] rounded-full transition text-zinc-800 hover:bg-[#def3ee] cursor-pointer text-sm;
+    }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-  body {
-    color: white;
-    background: black;
-  }
+    .scroll-btn {
+       @apply absolute lg:text-2xl md:text-xl text-lg py-5 px-5 rounded-full bg-gradient-to-b from-[#99F6E4] to-[#A5F3FC] shadow-xl text-zinc-800 transition hover:from-[#88e0cf] hover:to-[#97dce4] z-10;
+    }
+
+    .skill-box {
+        @apply px-3 py-1 bg-[#f2f7f2] rounded-full text-zinc-700 font-semibold;
+    }
 }
