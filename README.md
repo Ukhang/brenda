@@ -1,6 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+#### Brenda - is a Freeelance Marketplace Front-end web application built with React, Nextjs, Tailwindcss
+I created this inspired by the upwork freelance marketplace
 
-## Getting Started
+#### Watch the live: https://brenda-sooty.vercel.app/
+
+### 
 
 First, run the development server:
 
