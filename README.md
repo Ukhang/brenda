@@ -3,8 +3,6 @@ I created this inspired by the upwork freelance marketplace
 
 #### Watch the live: https://brenda-sooty.vercel.app/
 
-![02_preview](https://user-images.githubusercontent.com/94834060/189581559-24d13a99-ccde-4486-8e18-6bd76f40f12b.png)
-
 ### How to run 💻
 Please follow the below instructions to run this project in your machine:
 ## Getting Started
