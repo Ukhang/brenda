@@ -1,4 +1,5 @@
-#### Brenda - is a Freeelance Marketplace Front-end web application built with React, Nextjs, Tailwindcss
+## Brenda 
+Brenda - is a Freeelance Marketplace Front-end web application built with React, Nextjs, Tailwindcss
 I created this inspired by the upwork freelance marketplace
 
 #### Watch the live: https://brenda-sooty.vercel.app/
