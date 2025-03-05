@@ -1,5 +1,5 @@
 # Brenda 
-Brenda - The World's Work Marketplace. I created this inspired by the upwork freelance marketplace
+Brenda - The World's Work Marketplace (Frontend only, no backend). Inspired by Upwork, I built this freelance marketplace UI.
 
 #### Watch the live: https://brenda-sooty.vercel.app/
 
